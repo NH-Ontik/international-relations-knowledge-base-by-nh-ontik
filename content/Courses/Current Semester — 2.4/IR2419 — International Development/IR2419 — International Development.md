@@ -1,160 +1,70 @@
 ---
-date: 2026-07-10
-type: course
-code: IR2419
-semester: 4
-status: seeded
-tags:
-  - course
-  - course/sem4
+date: 2026-07-14
+type: course-page
+course: IR2419
+status: complete
+tags: [course-page, ir2419, development]
 ---
 
 # IR2419 — International Development
 
-**Semester:** 4
-**Status:** ⬜ Seeded (needs lectures, tutorials, and exam prep)
+## Course Description
+This course introduces students to the major theoretical approaches to international development: modernization theory, dependency and world-systems theory, neoliberalism and the Washington Consensus, human development and the capabilities approach, post-development and critical perspectives, gender and development, and the role of the state, institutions, and governance. The course examines key contemporary issues including environment and climate change, foreign aid, debt, and the global financial architecture. Throughout, theory is applied to the case of Bangladesh.
 
----
+## Core Questions
+1. What is development? Is it growth, freedom, or something else?
+2. Why are some countries rich and others poor?
+3. Can development be achieved through global capitalism, or does it require fundamental transformation?
+4. What is the relationship between development and the environment?
+5. Does foreign aid help or harm?
+6. Who should control the global financial system?
 
-## Key References from Syllabus
-- Haslam, P. A., Schafer, J. & Beaudet, P. *Introduction to International Development: Approaches, Actors and Issues*, 3rd ed.
-- Riddell, R. (2008). *Does Foreign Aid Really Work?* Oxford University Press.
+## Module Overview
 
----
+| # | Module | Status |
+|---|--------|--------|
+| 1 | [[Module 1 — What is Development? Contested Concepts]] | reviewed |
+| 2 | [[Module 2 — Modernization Theory]] | reviewed |
+| 3 | [[Module 3 — Dependency and World-Systems Theory]] | reviewed |
+| 4 | [[Module 4 — Neoliberalism and the Washington Consensus]] | reviewed |
+| 5 | [[Module 5 — Human Development and the Capabilities Approach]] | reviewed |
+| 6 | [[Module 6 — Post-Development and Critical Approaches]] | reviewed |
+| 7 | [[Module 7 — Gender and Development]] | reviewed |
+| 8 | [[Module 8 — The State, Institutions, and Governance]] | reviewed |
+| 9 | [[Module 9 — Environment, Climate, and Sustainable Development]] | reviewed |
+| 10 | [[Module 10 — Aid, Debt, and the Global Financial Architecture]] | reviewed |
 
-## Core Concepts
+## Theoretical Frameworks
+The 10 modules progress from foundational concepts (Module 1: what is development) through four major theoretical families:
 
-### 1. What is Development?
+| Module(s) | Framework | Core Argument |
+|-----------|-----------|---------------|
+| 2–3 | Growth-based / Structural | Modernization (linear progress through stages); Dependency (development requires delinking from capitalism) |
+| 4 | Market-based | Neoliberalism (free markets, liberalisation, privatisation) |
+| 5 | Human-centred | Capabilities approach (development as freedom, HDI) |
+| 6 | Critical | Post-development (reject the concept of development itself) |
 
-Development is a contested concept. Definitions range from:
-- **Economic growth**: Rise in GDP/GNI per capita
-- **Modernization**: Transition from "traditional" to "modern" society
-- **Human development**: Expanding people's freedoms and capabilities
-- **Post-development**: Rejection of Western-defined development — see [[Postcolonialism]]
+## Assessment
 
-### 2. Major Development Theories
+### Short Questions (each ~250 words)
+1. What is the Human Development Index? What does it measure that GDP does not?
+2. What is dependency theory? How does it explain underdevelopment?
+3. What is the Washington Consensus? What were its main policy recommendations?
+4. What is the capabilities approach? How does Sen define poverty?
+5. What is sustainable development? Explain the three-pillar model.
+6. What is the "good governance" agenda? Why is it controversial?
 
-| Theory | Key Thinkers | Core Argument | Critique |
-|--------|-------------|--------------|----------|
-| **Modernization** | Rostow, Parsons | Linear stages, traditional→modern, Western path is universal | Eurocentric, ignores [[Scramble for Africa|colonialism]], oversimplified |
-| **Dependency** | Frank, Prebisch, Cardoso | Core exploits periphery, development of underdevelopment — see [[Marxism]] | Deterministic, ignores East Asian success |
-| **World-Systems** | Wallerstein | Core/semi-periphery/periphery; capitalist world-economy | Too structural, lacks agency |
-| **Neoliberalism** | Friedman, Williamson (Washington Consensus) | Free markets, deregulation, privatization, trade liberalization | Increased inequality, financial crises |
-| **Human Development** | Sen, ul Haq | People-centred; expanding capabilities and freedoms | Hard to measure; HDI too crude |
-| **Capability Approach** | Sen, Nussbaum | What people can **be** and **do** (functionings + capabilities) | Requires extensive data; hard to operationalize |
-| **Post-Development** | Escobar, Sachs, Rahnema | Rejects "development" as Western discourse; embraces local alternatives | Lacks constructive alternative; romanticizes local |
+### Essay Questions (each ~1500 words)
+1. "Development as freedom has more explanatory power than development as growth." Discuss with reference to at least two developing countries.
+2. "Bangladesh's development experience supports modernization theory, challenges dependency theory, but confirms post-development critiques." Discuss.
+3. "The green growth agenda is a contradiction in terms." Critically evaluate.
+4. "Foreign aid has done more harm than good for developing countries." Discuss.
+5. "Gender equality is both a means and an end of development." Explain and evaluate.
+6. Compare the roles of the state in development according to modernization theory, dependency theory, and neoliberalism.
 
-#### Rostow's Stages of Economic Growth (Modernization)
-1. **Traditional Society** — Limited technology, agriculture
-2. **Preconditions for Take-Off** — Investment, infrastructure
-3. **Take-Off** — Industrialization, growth
-4. **Drive to Maturity** — Diversified economy
-5. **Age of High Mass Consumption** — Consumer society
-
-#### Prebisch-Singer Thesis (Dependency)
-- Terms of trade decline for primary commodity exporters over time
-- Raw materials from periphery get cheaper; manufactured goods from core get more expensive
-- Solution: Import-Substituting Industrialization (ISI)
-
-### 3. Amartya Sen's Capability Approach
-
-**Key question**: "Equality of what?"
-
-Sen rejects:
-- **Utilitarianism**: Adaptive preferences; the oppressed learn to want little
-- **Resource-based view (Rawls)**: Different people convert resources differently
-
-Sen proposes:
-- **Functionings**: What people actually do or are (e.g., being healthy, being educated)
-- **Capabilities**: The real freedom to achieve functionings
-- **Development as Freedom**: Removal of unfreedoms (poverty, tyranny, lack of opportunity)
-
-### 4. Human Development Index (HDI)
-- Created by Sen & Mahbub ul Haq (1990)
-- Three dimensions: Longevity, Education, Income
-- Alternative to GDP as development measure
-
-### 5. The Millennium Development Goals (MDGs, 2000-2015)
-- 8 goals: poverty, education, gender, child health, maternal health, HIV/AIDS, environment, global partnership
-- Success: 1 billion lifted from extreme poverty
-- Critique: Top-down, donor-driven, neglected inequalities
-- Related: [[United Nations]], [[Bretton Woods Institutions]]
-
-### 6. Sustainable Development Goals (SDGs, 2015-2030)
-- 17 goals, 169 targets
-- Universal (not just developing countries like MDGs)
-- "Zero" goals (end poverty, hunger)
-- Five transformative shifts: (1) Leave no one behind, (2) Sustainable development, (3) Transform economies, (4) Build peaceful & inclusive societies, (5) Global partnership
-- Related: [[Global Governance]], [[United Nations]]
-
-### 7. Foreign Aid Debate
-
-| For Aid (Sachs) | Against Aid (Easterly, Moyo) |
-|-----------------|-------------------------------|
-| Can solve specific problems (health, education) | Creates aid dependency |
-| Evidence-based aid works (bed nets, vaccines) | Corrupt governments waste aid |
-| Scaling up can end extreme poverty | Aid undermines local accountability |
-
-**Riddell (2008)**: *Does Foreign Aid Really Work?*
-- Nuanced answer: Aid works in some cases, fails in others
-- Depends on: quality of institutions, country context, aid type, accountability
-
-### 8. Key Actors in Development
-- **Multilateral**: [[United Nations|UN]], [[World Bank]], [[International Monetary Fund|IMF]], WHO, UNDP
-- **Bilateral**: USAID, DFID (now FCDO), JICA, GIZ
-- **Non-Governmental**: BRAC, Oxfam, Save the Children, MSF
-- **Private Sector**: TNCs, impact investing, CSR
-- **Civil Society**: Grassroots organizations, social movements
-
-### 9. Contemporary Issues
-- **Debt crisis**: Developing countries' debt burdens; calls for cancellation
-- **Climate and development**: Loss and damage, green transitions
-- **Global inequality**: Within and between countries
-- [[China Foreign Policy|China's role]]: [[Belt and Road Initiative]], alternative development model
-
----
-
-## Key Case Studies
-- [[Cold War]] — Development as geopolitical tool, competing models
-- [[Scramble for Africa]] — Colonial roots of underdevelopment
-- [[Bretton Woods Institutions]] — IMF/World Bank in developing countries
-- [[China Foreign Policy]] — BRI as alternative development model
-- [[Bangladesh Foreign Policy]] — Development-driven foreign policy
-- [[Rwanda Genocide]] — Post-genocide development, aid effectiveness
-
----
-
-## Connections to Other Courses
-- [[International Political Economy|IPE]] (IR4837): Trade, finance, and development
-- **Economics** (IR1208): Foundational economic concepts behind development theory
-- [[IR2417 — Regional and International Institutions|Regional Institutions]] (IR2417): UN, World Bank, IMF role
-- [[Postcolonialism]]: Critique of Western development discourse
-- [[Marxism]]: Dependency and world-systems theory foundations
-
----
-
-## Key Questions to Answer
-1. Why are some countries rich and others poor?
-2. Does foreign aid help or hurt?
-3. Can development be achieved within the current global system?
-4. What does "good development" look like?
-5. Is the SDG framework effective?
-
----
-
-## Reading Notes
-- [ ] Haslam et al. — Ch. 1: What is Development?
-- [ ] Haslam et al. — Ch. 2: Modernization Theory
-- [ ] Haslam et al. — Ch. 3: Dependency Theory
-- [ ] Haslam et al. — Ch. 4: Human Development
-- [ ] Riddell — Does Foreign Aid Really Work? (book)
-- [ ] Sen — Development as Freedom (Chapter 1)
-
----
-
-## Lecture Notes
-- [ ] Lecture 1: Theories of Development
-- [ ] Lecture 2: Actors and Institutions
-- [ ] Lecture 3: MDGs vs SDGs
-- [ ] Lecture 4: Aid and Its Critics
-- [ ] Lecture 5: Contemporary Issues
+## Cross-References
+- [[IR2417 — Regional and International Institutions]] — parallel course (institutions)
+- [[IR2418 — Peace and Conflict Studies]] — parallel course (peace and conflict)
+- [[Bangladesh in International Affairs]] — case study
+- [[Bretton Woods Institutions]] — IMF, World Bank
+- [[Political Economy of Development]] — broader framework

@@ -1,168 +1,89 @@
 ---
-date: 2026-07-10
-type: course
-code: IR2416
-semester: 4
-status: seeded
-tags:
-  - course
-  - course/sem4
+date: 2026-07-14
+type: course-page
+course: IR2416
+status: complete
+tags: [course-page, ir2416, cfp]
 ---
 
 # IR2416 — Comparative Foreign Policy
 
-**Semester:** 4
-**Status:** ⬜ Seeded (needs lectures, tutorials, and exam prep)
+## Course Description
+This course introduces students to the systematic, cross-national comparison of foreign policy behaviour. Building on Foreign Policy Analysis (IR2411), CFP asks: why do different states behave differently in international relations? The course covers Rosenau's foundational pre-theories, levels of analysis, comparative methods, domestic politics, leader psychology, and the distinctive foreign policies of great powers, middle powers, and small states. It critically examines the Eurocentrism of mainstream CFP and concludes with contemporary issues — digital diplomacy, climate, populism, and the future of the subfield. Throughout, Bangladesh is used as a case for comparative analysis.
 
----
+## Core Questions
+1. What explains variation in foreign policy across states?
+2. Why do leaders matter more in some states than in others?
+3. Is foreign policy shaped more by domestic politics or the international system?
+4. Are CFP theories universal, or are they Eurocentric?
+5. How should small states navigate great power competition?
+6. How are new issues (climate, digital, populism) changing foreign policy?
 
-## Core Relationship: IR2411 (FPA) → IR2416 (CFP)
-- **IR2411** was about the *theories and processes* of foreign policy decision-making
-- **IR2416** applies these to **comparative analysis** — across countries, regions, time periods, and issue areas
-- Build directly on: [[Foreign Policy Analysis]], [[Comparative Foreign Policy Analysis]]
+## Module Overview
 
----
+| # | Module | Status |
+|---|--------|--------|
+| 1 | [[Module 1 — What is Comparative Foreign Policy]] | reviewed |
+| 2 | [[Module 2 — Levels of Analysis in CFP]] | reviewed |
+| 3 | [[Module 3 — Comparative Methods in CFP]] | reviewed |
+| 4 | [[Module 4 — Domestic Politics and Foreign Policy]] | reviewed |
+| 5 | [[Module 5 — Leaders, Psychology, and Decision-Making]] | reviewed |
+| 6 | [[Module 6 — Great Powers]] | reviewed |
+| 7 | [[Module 7 — Middle Powers]] | reviewed |
+| 8 | [[Module 8 — Small States]] | reviewed |
+| 9 | [[Module 9 — Decolonising CFP]] | reviewed |
+| 10 | [[Module 10 — Contemporary Issues and the Future of CFP]] | reviewed |
 
-## Core Concepts
+## Module Progression
 
-### 1. What is Comparative Foreign Policy (CFP)?
-- Subfield of [[Foreign Policy Analysis]] focused on cross-national comparison
-- Asks: Why do different states behave differently? What explains variation in foreign policy?
-- Seeks generalizable patterns from [[case-study]] analysis and quantitative methods
+The 10 modules proceed through four phases:
 
-### 2. The Foundations: James N. Rosenau (1966)
+| Phase | Modules | Focus |
+|-------|---------|-------|
+| **Foundations** | 1–3 | Rosenau's pre-theories, levels of analysis, comparative methods |
+| **Explanatory variables** | 4–5 | Domestic politics, leaders and psychology |
+| **Comparative categories** | 6–8 | Great powers, middle powers, small states |
+| **Critical and contemporary** | 9–10 | Decolonising CFP, contemporary issues, synthesis |
 
-**"Pre-theories and Theories of Foreign Policy"**
+## Assessment
 
-Rosenau identified **5 variable categories** that shape foreign policy:
+### Short Questions (each ~250 words)
+1. What is Rosenau's pre-theory? Identify the five variable categories.
+2. What is the level-of-analysis problem? Why does it matter for CFP?
+3. What is the difference between Most Similar and Most Different Systems designs?
+4. How do regime types (democracy vs autocracy) affect foreign policy?
+5. What is prospect theory? How does it explain risk-taking in foreign policy?
+6. What defines a middle power? Give three examples.
+7. What does it mean to say CFP is Eurocentric?
+8. How has digital diplomacy changed how states communicate?
 
-| Variable | Definition | Example |
-|----------|------------|---------|
-| **Idiosyncratic** | Individual leader traits, personality, beliefs | Leader's ideology, risk tolerance |
-| **Role** | Decision-maker's official position and duties | President vs. Minister vs. Diplomat |
-| **Governmental/Bureaucratic** | Domestic state structure, agency competition | Bureaucratic politics model |
-| **Societal** | Society-wide factors, public opinion, culture | Nationalism, media, elite competition |
-| **Systemic** | International system structure, power distribution | [[Anarchy]], polarity, alliances |
+### Essay Questions (each ~1500 words)
+1. "Rosenau's pre-theories framework is still the best starting point for comparative foreign policy analysis." Discuss.
+2. "Leaders matter more in small states and autocracies than in large states and democracies." Critically evaluate this claim.
+3. Compare the foreign policy strategies of a great power (US or China) and a small state (Bangladesh or Singapore). What explains the difference?
+4. "Mainstream CFP cannot adequately explain the foreign policy of postcolonial states." Do you agree?
+5. "Populism has fundamentally changed how foreign policy is made." Provide comparative evidence.
+6. Compare India and Turkey as middle powers. What explains their different foreign policy strategies?
 
-**Rosenau's Key Insight**: The relative importance of these variables differs by:
-1. **Size of country**: Small vs. large states
-2. **Level of development**: Developed vs. developing
-3. **Type of political system**: Open vs. closed
-4. **Issue area**: Military vs. economic vs. diplomatic
-
-### 2. The Snyder-Sprout-Rosenau Foundation (1950s-60s)
-Three foundational works:
-- **Snyder, Bruck & Sapin (1954)** — Decision-making as an approach to international politics
-- **Sprout & Sprout (1956)** — Ecological framework: "psycho-milieu" (perceived environment) vs. "operational milieu" (objective environment)
-- **Rosenau (1966)** — Pre-theories and comparative method
-
-### 3. Comparative Methods
-| Approach | Description | Strength | Weakness |
-|----------|-------------|----------|----------|
-| **Single case study** | Deep analysis of one state/decision | Rich contextual detail | Low generalizability |
-| **Comparative case study** | 2-4 cases, controlled comparison | Balance of depth + breadth | Selection bias |
-| **Statistical analysis** | Large-N quantitative events data | Generalizability | Loses nuance |
-| **Most Similar Systems** | Similar states, different outcome | Control for similarity | Need for comparison |
-| **Most Different Systems** | Different states, same outcome | Identify common factors | Key differences |
-
-### 4. Levels of Analysis (Singer, 1961)
-
-| Level | Focus | Types of Explanations |
-|-------|-------|----------------------|
-| **Individual** | Leaders, psychology, perceptions | Personality, risk, belief systems |
-| **State/Societal** | Domestic politics, institutions | Regime type, interest groups |
-| **International System** | Structure, power, [[Anarchy]] | [[Polarity]], alliances |
-
-### 5. [[Foreign Policy Analysis]] Models — Comparative Application
-
-| Model | Compares... | Key Question |
-|-------|-------------|--------------|
-| Rational Actor | Cost-benefit across nations | Do all states "behave rationally"? |
-| Bureaucratic Politics | Governmental structure variation | Do democracies vs. autocracies differ in decision process? |
-| Poliheuristic | Decision calculus applied cross-nationally | Do all leaders use non-compensatory rules? |
-| Two-Level Game | Domestic-international interaction (Putnam) | How do domestic constraints affect international negotiations? |
-| Prospect Theory | Risk-taking across states | Do states in crisis (domain of loss) take more risks? |
-| Groupthink | Types of decision groups | Which governments are more prone to groupthink? |
-
-### 6. States by Category (Rosenau's Typology)
-
-| Large | Small |
-|-------|-------|
-| [[US Foreign Policy|USA]], [[China Foreign Policy|China]], [[Russia Foreign Policy|Russia]], [[India Foreign Policy|India]] | Bhutan, Belgium, Singapore, UAE |
-| **Open** | **Closed** |
-| Democracy (public opinion matters) | Autocracy (elite preferences dominate) |
-| **Developed** | **Developing** |
-| Structural/institutional explanations matter more | Personality/lack of institutionalization matters more |
-
-**Hypothesis**: Societal variables matter more in large, open, developed states; idiosyncratic variables matter more in small, closed, developing states.
-
-### 7. Critical Perspectives
-- **Eurocentrism of CFP**: "Are the models universal?"
-- **Postcolonial critique** (Persaud, Grovogui): FPA imposes Western categories on non-Western states — see [[Postcolonialism]]
-- **Non-US cases understudied**: FPA literature heavily focused on US
-- **Global South FPA**: Need to study states "on their own terms"
-
-### 8. Key Case Studies for Comparison
-- [[US Foreign Policy|US]] vs. [[China Foreign Policy]] — Status quo vs. revisionist power
-- [[India Foreign Policy|India]] vs. [[Pakistan Foreign Policy|Pakistan]] — Similar region, very different foreign policy
-- [[Bangladesh Foreign Policy]] — Small state in a complex region
-- **Nordic vs. Baltic foreign policy** — Similar region, different security postures
-- **Gulf states** — Small resource-rich states' foreign policy
-
----
-
-## Key Theorists
+## Key Theorists (Course-Wide)
 | Scholar | Contribution |
 |---------|-------------|
-| James N. Rosenau | Pre-theories, comparative method, turbulance theory |
-| Richard C. Snyder | Decision-making approach (founded FPA) |
-| Harold & Margaret Sprout | Psychological-ecological framework |
-| Valerie Hudson | History and evolution of FPA; actor-specific focus |
-| Juliet Kaarbo | Group decision-making, coalition cabinets, polythink |
-| Alex Mintz | Politheuristic theory, decision process |
-| Graham Allison | Bureaucratic politics models |
+| James N. Rosenau | Pre-theories, comparative method, five variable categories |
+| J. David Singer | Level-of-analysis problem |
+| Robert Putnam | Two-level games (domestic-international interaction) |
+| Alexander George | Operational code analysis |
+| Daniel Kahneman & Amos Tversky | Prospect theory |
+| Irving Janis | Groupthink |
+| Juliet Kaarbo | Group decision-making, polythink |
+| Andrew Cooper | Middle power diplomacy |
+| Siba Grovogui | Postcolonial sovereignty |
+| John Hobson | Eurocentrism of IR |
 
----
-
-## Key Case Studies
-- [[Cuban Missile Crisis]] — Classic crisis decision-making across states
-- [[Iraq War]] — US vs. coalition decision processes (1991 vs 2003)
-- [[Falklands War]] — Argentina and UK decision-making compared
-- [[Ukraine War]] — Russian decision-making vs Western response
-- [[Cold War]] — Bipolar foreign policy behaviour
-
----
-
-## Connections to Other Courses
-- [[Foreign Policy Analysis]] (IR2411): Foundation — build from decision-making models
-- [[Strategic Studies]] (IR2314): Great power foreign policies
-- **Bangladesh in International Affairs** (IR2313): Bangladesh as case study
-- [[IR2417 — Regional and International Institutions|Regional Institutions]] (IR2417): How institutions shape member foreign policy
-- **International Negotiation & Diplomacy** (IR4732): Practice of foreign policy
-
----
-
-## Key Exam Questions
-1. Critically evaluate Rosenau's pre-theory framework. Is it still relevant for understanding foreign policy in 2026?
-2. Compare the foreign policy decision-making processes of a democratic and an autocratic state.
-3. What is the level-of-analysis problem in foreign policy? Illustrate with examples.
-4. How can we compare foreign policies across very different states (e.g., US and Bhutan)?
-5. Critique the Eurocentric nature of CFP. How can we decolonize foreign policy studies?
-
----
-
-## Reading Notes
-- [ ] Rosenau (1966) — "Pre-theories and Theories of Foreign Policy"
-- [ ] Snyder, Bruck & Sapin (1954) — Decision-Making as an Approach
-- [ ] Hudson (2016) — History and Evolution of FPA
-- [ ] Breuning (2007) — FPA: A Comparative Introduction
-
----
-
-## Lecture Notes
-- [ ] Lecture 1: What is Comparative Foreign Policy?
-- [ ] Lecture 2: Rosenau's Pre-Theories
-- [ ] Lecture 3: Levels of Analysis
-- [ ] Lecture 4: Comparative Methods
-- [ ] Lecture 5: Case Studies in Comparison
-- [ ] Lecture 6: Decolonizing CFP
+## Cross-References
+- [[Foreign Policy Analysis]] — Prerequisite foundation (IR2411)
+- [[IR2417 — Regional and International Institutions]] — Institutions shaping FP
+- [[IR2418 — Peace and Conflict Studies]] — Conflict and FP
+- [[IR2419 — International Development]] — Development and FP
+- [[Bangladesh Foreign Policy]] — Case study
+- [[US Foreign Policy]] — Great power case
+- [[China Foreign Policy]] — Great power case
