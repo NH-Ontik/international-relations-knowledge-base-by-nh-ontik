@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "4a21dd97a039863c",
+    "id": "559021b5bd1b19d9",
     "type": "split",
     "children": [
       {
-        "id": "40d34ae93c1b8f5f",
+        "id": "56aad62434acfb21",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd423576778fd88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 1 — What is Comparative Foreign Policy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Module 1 — What is Comparative Foreign Policy"
-            }
-          },
-          {
-            "id": "2134ccba1b5ce3f3",
+            "id": "021b425a14196a3b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -37,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6eb11fbff3d4d99a",
+    "id": "510506ec5f8a3405",
     "type": "split",
     "children": [
       {
-        "id": "5f33dbcffd020daa",
+        "id": "72a7fad4b5031eee",
         "type": "tabs",
         "children": [
           {
-            "id": "61686a6c816712bf",
+            "id": "de9a04a1dd788f48",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +44,7 @@
             }
           },
           {
-            "id": "6ca5a6a8743dc35d",
+            "id": "7d93d75b78b60f2a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +61,7 @@
             }
           },
           {
-            "id": "4404f7ecfd69a6ac",
+            "id": "7ccd618fec984750",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "0f4fc5cfbf0d26fc",
+    "id": "bbc6127b7377c9c7",
     "type": "split",
     "children": [
       {
-        "id": "e6298138dcb1c83b",
+        "id": "0362037919f527d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0de479b5f5b27a",
+            "id": "c2729828bde3b540",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 1 — What is Comparative Foreign Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Module 1 — What is Comparative Foreign Policy"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8d875a4dce582e5e",
+            "id": "ba74593d8cff14e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 1 — What is Comparative Foreign Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Module 1 — What is Comparative Foreign Policy"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "46fa043c5233c514",
+            "id": "99e1330a81d5f752",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,7 +131,7 @@
             }
           },
           {
-            "id": "cf043544974dcd6f",
+            "id": "4a39656885a32d34",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -161,18 +145,17 @@
             }
           },
           {
-            "id": "8dbc7e8c06e2d6d9",
+            "id": "7d19a3ba76bba58a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 1 — What is Comparative Foreign Policy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Module 1 — What is Comparative Foreign Policy"
+              "title": "Outline"
             }
           }
         ]
@@ -193,43 +176,6 @@
       "bases:Create new base": false
     }
   },
-  "active": "3fd423576778fd88",
-  "lastOpenFiles": [
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 10 — Contemporary Issues and the Future of CFP.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 9 — Decolonising CFP.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 8 — Small States.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 7 — Middle Powers.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 6 — Great Powers.md",
-    "content/Courses/Current Semester — 2.4/IR2417 — Regional and International Institutions/Module 12 — Course Review and Exam Preparation.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 5 — Leaders, Psychology, and Decision-Making.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 4 — Domestic Politics and Foreign Policy.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 3 — Comparative Methods in CFP.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 2 — Levels of Analysis in CFP.md",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy/Module 1 — What is Comparative Foreign Policy.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 10 — Aid, Debt, and the Global Financial Architecture.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 9 — Environment, Climate, and Sustainable Development.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 8 — The State, Institutions, and Governance.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 7 — Gender and Development.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 6 — Post-Development and Critical Approaches.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 5 — Human Development and the Capabilities Approach.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 4 — Neoliberalism and the Washington Consensus.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 3 — Dependency and World-Systems Theory.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 2 — Modernization Theory.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development/Module 1 — What is Development Contested Concepts.md",
-    "content/Ancient Greece.md",
-    "content/Courses/Current Semester — 2.4/IR2418 — Peace and Conflict Studies/Module 10 — Rethinking Peace Contemporary Challenges and Course Review.md",
-    "content/Courses/Current Semester — 2.4/IR2418 — Peace and Conflict Studies/Module 9 — Reconciliation, Transitional Justice, and Post-Conflict Peace.md",
-    "content/Courses/Current Semester — 2.4/IR2418 — Peace and Conflict Studies/Module 8 — NonWestern and Critical Approaches to Peace.md",
-    "content/Courses/Current Semester — 2.4/IR2418 — Peace and Conflict Studies/Module 7 — Peacekeeping and Peace Enforcement.md",
-    "content/Courses/Current Semester — 2.4/IR2419 — International Development",
-    "content/Courses/Current Semester — 2.4/IR2418 — Peace and Conflict Studies",
-    "content/Courses/Current Semester — 2.4/IR2417 — Regional and International Institutions",
-    "content/Courses/Current Semester — 2.4/IR2416 — Comparative Foreign Policy",
-    "content/Courses/Previous Semesters/IR2314 — Strategic Studies/Theory",
-    "content/Courses/Previous Semesters/IR2314 — Strategic Studies/Concepts",
-    "content/Courses/Previous Semesters/IR2314 — Strategic Studies",
-    "content/Courses/Previous Semesters/IR2311 — Foreign Policy Analysis/Theory",
-    "content/Courses/Previous Semesters/IR2311 — Foreign Policy Analysis/Methodology",
-    "content/Courses/Previous Semesters/IR2311 — Foreign Policy Analysis"
-  ]
+  "active": "021b425a14196a3b",
+  "lastOpenFiles": []
 }

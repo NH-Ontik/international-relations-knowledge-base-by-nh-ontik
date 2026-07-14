@@ -42,10 +42,7 @@ jobs:
 
       - name: Clone Quartz engine
         run: |
-          git clone --depth 1 https://github.com/jackyzha0/quartz.git quartz-engine
-          cd quartz-engine
-          git fetch --depth 1 origin 9cf87ff1c248a8ca551093214b0fec3b31415009
-          git checkout 9cf87ff1c248a8ca551093214b0fec3b31415009
+          git clone --branch v5 --depth 1 https://github.com/jackyzha0/quartz.git quartz-engine
 
       - name: Restore Quartz dependency cache
         uses: actions/cache@v5
