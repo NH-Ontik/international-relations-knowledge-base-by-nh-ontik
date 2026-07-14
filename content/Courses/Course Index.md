@@ -8,20 +8,24 @@ tags:
 
 # Course Index
 
-## Completed (Semesters 1-3)
+## 1. Previous Semesters
+
 | Code | Course | Notes Status |
 |------|--------|------------|
 | IR1101 | Introduction to International Relations | ✅ Completed |
 | IR2311 | Foreign Policy Analysis | ✅ Completed |
 | IR2314 | Strategic Studies | ✅ Completed |
 
-## Preparing (Semester 4 — Current)
+> Course folders: [[Previous Semesters/IR2311 — Foreign Policy Analysis/IR2311 — Foreign Policy Analysis\|IR2311]], [[Previous Semesters/IR2314 — Strategic Studies/IR2314 — Strategic Studies\|IR2314]]
+
+## 2. Current Semester — 2.4
+
 | Code | Course | Notes Status |
 |------|--------|------------|
-| [[IR2416 — Comparative Foreign Policy]] | Comparative Foreign Policy | ⬜ Seeded |
-| [[IR2417 — Regional and International Institutions]] | Regional and International Institutions | ⬜ Seeded |
-| [[IR2418 — Peace and Conflict Studies]] | Peace and Conflict Studies | ⬜ Seeded |
-| [[IR2419 — International Development]] | International Development | ⬜ Seeded |
+| [[Current Semester — 2.4/IR2416 — Comparative Foreign Policy\|IR2416]] | Comparative Foreign Policy | ⬜ Seeded |
+| [[Current Semester — 2.4/IR2417 — Regional and International Institutions\|IR2417]] | Regional and International Institutions | ⬜ Seeded |
+| [[Current Semester — 2.4/IR2418 — Peace and Conflict Studies\|IR2418]] | Peace and Conflict Studies | ⬜ Seeded |
+| [[Current Semester — 2.4/IR2419 — International Development\|IR2419]] | International Development | ⬜ Seeded |
 | IR2420 | French | Not started |
 
 ## Upcoming

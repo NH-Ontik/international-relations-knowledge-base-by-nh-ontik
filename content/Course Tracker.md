@@ -1,5 +1,5 @@
 ---
-date: 2026-07-10
+date: 2026-07-14
 type: tracker
 status: active
 tags:
@@ -11,10 +11,13 @@ tags:
 **Program:** BSS (Hons) in International Relations
 **Faculty:** Faculty of Security & Strategic Studies (FSSS)
 **Department:** Department of International Relations
+**Current Semester:** 2.4 (Year 2, Semester 4) — IR24xx courses
 
 ---
 
-## Semester 1 ✅ (Completed)
+## 1. Previous Semesters
+
+### Semester 1 ✅ (Completed)
 | Code | Course | Notes |
 |------|--------|-------|
 | IR1101 | Introduction to International Relations | ✅ Foundational — IR theory vault started here |
@@ -23,7 +26,7 @@ tags:
 | IR1104 | Introduction to Political Science | — |
 | IR1105 | Presentation and Skill Development | — |
 
-## Semester 2 ✅ (Completed)
+### Semester 2 ✅ (Completed)
 | Code | Course | Notes |
 |------|--------|-------|
 | IR1206 | Introduction to Political Geography | — |
@@ -32,7 +35,7 @@ tags:
 | IR1209 | Introduction to Sociology | — |
 | IR1210 | Bangladesh Studies (Political History of Bangladesh) | — |
 
-## Semester 3 ✅ (Completed)
+### Semester 3 ✅ (Completed)
 | Code | Course | Notes |
 |------|--------|-------|
 | IR2311 | Foreign Policy Analysis | ✅ [[IR2311 — Foreign Policy Analysis\|Course page]], [[Foreign Policy Analysis|Theory]], [[Comparative Foreign Policy Analysis|Methodology]] |
@@ -41,7 +44,11 @@ tags:
 | IR2314 | Strategic Studies | ✅ [[IR2314 — Strategic Studies\|Course page]], [[Strategic Studies|Theory]], [[Kautilyan Realism]], [[Deterrence]], [[Arms Control]] |
 | IR2315 | Media and International Relations | — |
 
-## Semester 4 ✅ (Seeded — Ready for lecture notes)
+---
+
+## 2. Current Semester — 2.4
+
+### Semester 4 (IR24xx) ✅ Seeded
 | Code | Course | Notes | Priority |
 |------|--------|-------|----------|
 | IR2416 | Comparative Foreign Policy | ⬜ [[IR2416 — Comparative Foreign Policy]] | High |
