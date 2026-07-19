@@ -9,6 +9,12 @@ aliases:
   - Collective Security System
   - Universal Security
   - League System
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Collective Security

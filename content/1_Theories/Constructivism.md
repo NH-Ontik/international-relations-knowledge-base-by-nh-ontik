@@ -6,6 +6,12 @@ tags:
   - theory
   - theory/ir
   - case-study
+rag:
+  paradigm: [constructivism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Constructivism

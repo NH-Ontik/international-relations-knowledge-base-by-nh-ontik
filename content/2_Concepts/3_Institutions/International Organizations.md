@@ -9,6 +9,12 @@ tags:
 aliases:
   - IOs
   - International Organisations
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # International Organizations

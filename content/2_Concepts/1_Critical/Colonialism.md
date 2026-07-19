@@ -8,6 +8,12 @@ tags:
   - case-study
 aliases:
   - Colonialism
+rag:
+  paradigm: [postcolonial]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Colonialism

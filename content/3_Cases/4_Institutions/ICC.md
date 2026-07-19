@@ -1,5 +1,11 @@
 ---
 tags: [case-study/institution, course/sem4]
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # International Criminal Court

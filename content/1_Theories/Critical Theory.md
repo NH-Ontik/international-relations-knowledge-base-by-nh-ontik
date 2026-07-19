@@ -1,5 +1,11 @@
 ---
 tags: [theory, theory/ir]
+rag:
+  paradigm: [critical]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Critical Theory

@@ -6,6 +6,12 @@ tags:
 aliases:
   - UN
   - UN System
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # United Nations

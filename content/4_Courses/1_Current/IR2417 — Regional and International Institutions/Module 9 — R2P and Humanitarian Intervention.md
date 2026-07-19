@@ -5,6 +5,12 @@ course: IR2417
 module: 9
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism, critical]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 9 — R2P and Humanitarian Intervention

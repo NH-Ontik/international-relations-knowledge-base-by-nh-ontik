@@ -1,5 +1,11 @@
 ---
 tags: [theory, theory/ir, case-study]
+rag:
+  paradigm: [marxism, liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # International Political Economy

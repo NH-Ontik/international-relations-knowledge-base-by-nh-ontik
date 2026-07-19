@@ -8,6 +8,12 @@ tags:
 aliases:
   - Public International Law
   - PIL
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # International Law

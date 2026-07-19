@@ -1,109 +1,132 @@
 ---
-date: 2026-07-10
+date: 2026-07-19
 type: dashboard
 status: active
 tags:
   - meta
 ---
 
-# International Relations — BSS (Hons) Dashboard
+# International Relations Knowledge Base
 
-## Current Status
-- **Year:** 2
-- **Completed:** Semesters 1-3 ✅
-- **Preparing:** Semester 4 ⬜
-- **Current Courses (Sem 4):**
-  - [[IR2416]] — Comparative Foreign Policy
-  - [[IR2417]] — Regional and International Institutions
-  - [[IR2418]] — Peace and Conflict Studies
-  - [[IR2419]] — International Development
-  - [[IR2420]] — French
-- **Active Assignments:**
-  - [[]] — Due: 
+## Overview
+
+A comprehensive, interconnected knowledge base for IR study and research. Covers theoretical frameworks, core concepts, empirical cases, research methodology, substantive domains, and RAG-optimized synthesis chunks.
 
 ## Quick Links
-- [[Course Tracker]]
-- [[Reading List]]
-- [[Exam Board]]
-- [[index]]
 
-## Semester 4 Notes Status
-- ✅ [[IR2416 — Comparative Foreign Policy]] — Seeded (builds on IR2411 + Rosenau, methods, cases)
-- ✅ [[IR2417 — Regional and International Institutions]] — Seeded (UN, EU, ASEAN, AU, IR theories of IOs)
-- ✅ [[IR2418 — Peace and Conflict Studies]] — Seeded (Galtung, violence triangle, transformation, peacebuilding)
-- ✅ [[IR2419 — International Development]] — Seeded (modernization, dependency, Sen, MDGs/SDGs, aid)
-- 🔲 [[IR2420 — French]] — Not started
+| Link | Description |
+|------|-------------|
+| [[index]] | Full navigation index with directory tree |
+| [[Course Tracker]] | Multi-semester degree plan |
+| [[Reading List]] | Key texts and reading tracker |
+| [[Exams/Exam Board]] | Exam preparation hub |
+| [[Assignments/Assignment Tracker]] | Assignment tracking |
 
-## Next Steps
-- [ ] Fill in lectures as you attend them
-- [ ] Add assigned readings to reading lists
-- [ ] Take reading notes in respective course pages
-- [ ] Review weekly in [[Weekly]]
+## Knowledge Base Stats
 
-## Theories Overview
-| Theory | Status | Key Thinker |
-|--------|--------|-------------|
-| [[Realism]] | ✅ Note created | Morgenthau, Waltz, Mearsheimer |
-| [[Neorealism]] | ✅ Note created | Waltz (structural realism) |
-| [[Liberalism]] | ✅ Note created | Kant, Keohane, Nye |
-| [[Constructivism]] | ✅ Note created | Wendt, Finnemore |
-| [[Marxism]] | ✅ Note created | Lenin, Wallerstein, Cox |
-| [[Feminism]] | ✅ Note created | Tickner, Enloe, Cohn |
-| [[Postcolonialism]] | ✅ Note created | Said, Fanon, Grovogui |
-| [[English School]] | ✅ Note created | Bull, Wight, Vincent |
-| [[Critical Theory]] | ✅ Note created | Horkheimer, Cox, Linklater |
-| [[International Political Economy]] | ✅ Note created | Gilpin, Strange, Keohane |
-| [[Strategic Studies]] | ✅ Note created | Clausewitz, Brodie, Schelling, Gray |
-| [[Foreign Policy Analysis]] | ✅ Note created | Breuning, Neack, Mintz, Allison |
-| [[Kautilyan Realism]] | ✅ Note created | Kautilya (Chanakya) |
+| Section | Count | MOC |
+|---------|-------|-----|
+| Theories | 21 notes | [[MOC_Theories]] |
+| Concepts | 35+ notes (7 subcategories) | [[MOC_Concepts]] |
+| Case Studies | 42+ notes (5 subcategories) | [[MOC_Cases]] |
+| Courses | 6 courses, 75+ module notes | [[MOC_Courses]] |
+| Methodology | 7 notes | [[MOC_Methodology]] |
+| Domains | 8 notes | [[MOC_Domains]] |
+| Pedagogy | 5 notes | [[MOC_Pedagogy]] |
+| Synthesis | 20 RAG chunks | [[MOC_Synthesis]] |
+| Sources | 4 hub files (hyperlinked) | [[Comprehensive Sources Hub]] |
+| Templates | 10 note types | — |
 
-## Concepts Quick Reference
-| Concept | Theory Tie |
-|---------|------------|
-| [[Anarchy]] | Realism (foundational assumption) |
-| [[Security Dilemma]] | Realism (core mechanism) |
-| [[Balance of Power]] | Realism |
-| [[Polarity]] | Realism / Neorealism |
-| [[Democratic Peace Theory]] | Liberalism |
-| [[Complex Interdependence]] | Liberalism |
-| [[Soft Power]] | Liberalism |
-| [[Sovereignty]] | All theories |
-| [[Humanitarian Intervention]] | Sovereignty debate |
-| [[Responsibility to Protect\|R2P]] | Normative IR |
-| [[International Law]] | Liberalism |
-| [[International Organizations]] | Liberalism / Constructivism |
-| [[Hegemony]] | Realism / Marxism |
-| [[Security Community]] | Constructivism |
-| [[International Regimes]] | Institutionalism |
-| [[Collective Security]] | Liberalism / UN system |
-| [[Global Governance]] | All theories |
-| [[Deterrence]] | Strategic Studies |
-| [[Arms Control]] | Strategic Studies |
+## Getting Started
+
+**New to this KB?** Start here:
+
+1. **Get the big picture** → Read [[MOC_Theories]] and [[MOC_Concepts]] to see the theoretical landscape
+2. **Understand IR history** → [[Great Debates in IR]] covers the paradigmatic shifts from realism vs idealism to the post-paradigm era
+3. **Look up terms** → [[IR Glossary]] defines 80+ essential terms with school attribution
+4. **Pick a case** → [[MOC_Cases]] links to conflicts, country foreign policies, institutions, and pre-Westphalian systems
+5. **Write better** → [[Citation Guide for IR]] covers APA, Chicago, and Harvard with IR-specific examples
+
+## For Researchers
+
+**Methods & design:**
+- [[MOC_Methodology]] → Epistemology, qualitative, quantitative, and formal methods
+- [[Research Design for IR]] → From research question to causal argument
+- [[IR Methods Toolbox]] → Software, databases, and reference management
+
+**Sources & references:**
+- [[Comprehensive Sources Hub]] → All hyperlinked academic references (DOIs, JSTOR, publisher links)
+- [[Journals and Databases]] → 18 top IR journals, 14 datasets, 10 open-access repositories
+- [[Institutions and Think Tanks]] → 55+ research institutions across 6 regions
+- [[Policy Documents and Primary Sources]] → UN Charter, UDHR, Rome Statute, EU/NATO/ASEAN treaties
+
+**RAG-optimized synthesis:**
+- [[MOC_Synthesis]] → Pre-computed theory×case applications, structured debates, and Q&A pairs designed for LLM retrieval
+
+**Domain expertise:**
+- [[MOC_Domains]] → Cybersecurity, migration, nuclear politics, health governance, economic statecraft, and more
+
+**Current frontiers:**
+- [[State of the Field 2025-2026]] → Geoeconomics, AI governance, climate security, decolonizing IR
+
+## Theory Overview
+
+| Theory | Category | Key Thinkers |
+|--------|----------|-------------|
+| [[Realism]] | Classical | Morgenthau, Waltz, Mearsheimer |
+| [[Neorealism]] | Classical | Waltz (structural realism) |
+| [[Liberalism]] | Classical | Kant, Keohane, Doyle |
+| [[Constructivism]] | Classical | Wendt, Finnemore, Katzenstein |
+| [[Marxism]] | Classical | Marx, Lenin, Wallerstein |
+| [[Feminism]] | Critical | Tickner, Enloe, Sylvester |
+| [[Postcolonialism]] | Critical | Said, Spivak, Fanon, Chakrabarty |
+| [[Critical Theory]] | Critical | Cox, Linklater |
+| [[English School]] | Specialist | Bull, Wight, Buzan |
+| [[International Political Economy]] | Specialist | Strange, Gilpin, Cox |
+| [[Eco-Critical IR]] | Critical | — |
+| [[Rational Choice and Game Theory]] | Specialist | — |
+| [[Practice Theory]] | Emerging | — |
+| [[Ontological Security Theory]] | Emerging | — |
+| [[Assemblage Theory and ANT]] | Emerging | — |
+| [[Quantum IR]] | Emerging | — |
+| [[Disability Studies in IR]] | Critical | — |
+| [[Kautilyan Realism]] | Non-Western | Kautilya (Chanakya) |
+| [[Islamic Political Thought in IR]] | Non-Western | Ibn Khaldun, Qutb, Iqbal |
+| [[Chinese Strategic Thought]] | Non-Western | Sun Tzu, Confucius, Qin Yaqing |
+| [[African Political Philosophy in IR]] | Non-Western | Tutu, Ramose, Nkrumah |
+| [[Latin American Dependency Theory]] | Non-Western | Prebisch, Frank, Cardoso |
+
+## Concept Categories
+
+| Category | Concepts |
+|----------|----------|
+| **Core** | [[Anarchy]], [[Security Dilemma]], [[Balance of Power]], [[Polarity]], [[Democratic Peace Theory]], [[Complex Interdependence]], [[Agent-Structure Problem]] |
+| **Critical** | [[Colonialism]], [[Imperialism]], [[Eurocentrism]], [[Orientalism]], [[Global South]], [[Structural Violence]], [[Just War Theory]], [[Humanitarian Intervention]], [[Justice]] |
+| **Cross-Cutting** | [[Climate Change]], [[Collective Security]], [[Conflict Transformation]], [[Peacekeeping]], [[Security Community]] |
+| **Institutions** | [[International Organizations]], [[International Regimes]], [[Global Governance]], [[International Society]], [[Responsibility to Protect]], [[Transitional Justice]], [[Belt and Road Initiative]] |
+| **Law** | [[International Law]] |
+| **Power** | [[Hegemony]], [[Soft Power]], [[Middle Powers]] |
+| **Sovereignty** | [[Sovereignty]] |
 
 ## Case Studies
+
 | Category | Cases |
 |----------|-------|
-| **Conflicts** | [[Cold War\|Cold War]], [[WWI\|WWI]], [[Vietnam War\|Vietnam]], [[Iraq War\|Iraq]], [[Ukraine War\|Ukraine]], [[Falklands War\|Falklands]], [[Kosovo War\|Kosovo]], [[Rwanda Genocide\|Rwanda]], [[Cuban Missile Crisis\|Cuban Missile Crisis]], [[Israel-Palestine\|Israel-Palestine]], [[Mauryan Empire\|Mauryan Empire]] |
-| **Events** | [[Scramble for Africa\|Scramble for Africa]] |
-| **Institutions** | [[United Nations\|UN]], [[NATO]], [[European Union\|EU]], [[ASEAN]], [[African Union\|AU]], [[SAARC\|SAARC]], [[SCO\|SCO]], [[Bretton Woods Institutions\|Bretton Woods]], [[World Trade Organization\|WTO]], [[International Monetary Fund\|IMF]], [[ICC\|ICC]] |
-| **Countries (FPA)** | [[US Foreign Policy\|US]], [[China Foreign Policy\|China]], [[Russia Foreign Policy\|Russia]], [[India Foreign Policy\|India]], [[Pakistan Foreign Policy\|Pakistan]], [[Bangladesh Foreign Policy\|Bangladesh]] |
-| **Non-Western** | [[Gandhi Satyagraha\|Gandhi/Satyagraha]] |
+| **Conflicts** (16) | [[Cold War]], [[Cuban Missile Crisis]], [[Ethiopia-Tigray War]], [[Falklands War]], [[Iraq War]], [[Israel-Palestine]], [[Kosovo War]], [[Mauryan Empire]], [[Nagorno-Karabakh Conflict]], [[Rwanda Genocide]], [[Sudan Civil War]], [[Syrian Civil War]], [[Ukraine War]], [[Vietnam War]], [[World War I]], [[Yemen Civil War]] |
+| **Countries** (14) | [[US Foreign Policy\|US]], [[China Foreign Policy\|China]], [[Russia Foreign Policy\|Russia]], [[India Foreign Policy\|India]], [[Iran Foreign Policy\|Iran]], [[Brazil Foreign Policy\|Brazil]], [[Indonesia Foreign Policy\|Indonesia]], [[Pakistan Foreign Policy\|Pakistan]], [[Bangladesh Foreign Policy\|Bangladesh]], [[Mexico Foreign Policy\|Mexico]], [[Saudi Arabia Foreign Policy\|Saudi Arabia]], [[Vietnam Foreign Policy\|Vietnam]], [[Venezuela Foreign Policy\|Venezuela]], [[Pacific Islands Foreign Policy\|Pacific Islands]] |
+| **Events** (6) | [[Scramble for Africa]], [[Apartheid]], [[Bangladesh Liberation]], [[COVID-19 and Global Governance]], [[BRICS Expansion 2024]], [[AI Governance Developments]] |
+| **Institutions** (13) | [[United Nations\|UN]], [[NATO]], [[European Union\|EU]], [[ASEAN]], [[African Union\|AU]], [[SAARC]], [[SCO]], [[ICC]], [[Bretton Woods Institutions\|Bretton Woods]], [[International Monetary Fund\|IMF]], [[World Bank]], [[World Trade Organization\|WTO]], [[Non-Aligned Movement\|NAM]] |
+| **Non-Western** (6) | [[Gandhi Satyagraha\|Gandhi/Satyagraha]], [[Greek City-States System]], [[Han-Tributary System]], [[Mongol Empire and Eurasian Integration]], [[Ottoman Millet System]], [[Pre-Colonial African State Systems]] |
 
-## Source PDFs (in Sources/)
-- Baylis et al. (1975). *Contemporary Strategy: Theories and Policies*
-- Baylis, Gray & Wirtz (2019). *Strategy in the Contemporary World*, 6th ed.
-- Kautilya (c. 4th cent. BCE). *Arthashastra* (tr. Shamasastry)
-- Breuning (2007). *Foreign Policy Analysis: A Comparative Introduction*
-- Neack (2008). *The New Foreign Policy*, 2nd ed.
-- Mintz & DeRouen (2010). *Understanding Foreign Policy Decision Making*
+## Academic Sources
 
-## Stats
-- **Theories fully written:** 13
-- **Concepts seeded:** 35+
-- **Case studies:** 31 (12 conflicts/events, 11 institutions, 6 countries, 1 non-Western, plus themes like climate, colonialism, NAM)
-- **Templates created:** 9
-- **Source PDFs ingested:** 6
-- **Total notes:** ~75+ 
+All references are hyperlinked to publisher pages, JSTOR, DOIs, and official document repositories. No local PDFs.
+
+- [[Comprehensive Sources Hub]] — Master index of all hyperlinked references
+- [[Journals and Databases]] — 18 top IR journals, 14 datasets, 10 open-access repositories
+- [[Institutions and Think Tanks]] — 55+ research institutions across 6 regions
+- [[Policy Documents and Primary Sources]] — UN Charter, UDHR, Rome Statute, EU/NATO/ASEAN treaties
+- [[Reading List]] — Key texts with hyperlinked publisher pages
 
 ---
-*Last updated: 2026-07-10*
+*Last updated: 2026-07-19*

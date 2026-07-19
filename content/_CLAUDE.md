@@ -17,7 +17,7 @@
 ├── Methodology/     — Research methods and approaches
 ├── Exams/           — Exam preparation and past papers
 ├── Research/        — Thesis research and third-year projects
-├── Sources/         — Saved PDFs and source materials
+├── Sources/         — Hyperlinked academic sources, journals, institutions
 ├── Templates/         — Note templates
 └── Archive/         — Completed/past work
 ```

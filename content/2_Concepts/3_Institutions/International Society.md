@@ -5,6 +5,12 @@ status: active
 tags:
   - concept
   - concept/institutions
+rag:
+  paradigm: [english_school]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # International Society

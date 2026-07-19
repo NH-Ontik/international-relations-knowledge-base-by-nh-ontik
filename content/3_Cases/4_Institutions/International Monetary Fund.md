@@ -1,6 +1,12 @@
 ---
 tags: [case-study/institution, course/sem4]
 aliases: [IMF]
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # International Monetary Fund

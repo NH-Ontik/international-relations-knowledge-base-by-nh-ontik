@@ -5,6 +5,12 @@ course: IR2417
 module: 8
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [realism, liberalism]
+  level: [transnational, systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 8 — International Security Institutions

@@ -4,6 +4,12 @@ tags:
   - course/sem1
   - course/sem2
   - course/sem3
+rag:
+  paradigm: [realism, liberalism]
+  level: [state, systemic]
+  region: [asia]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Vietnam War (1955–1975)

@@ -8,6 +8,12 @@ tags:
   - case-study
 aliases:
   - Humanitarian Military Intervention
+rag:
+  paradigm: [liberalism, critical]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Humanitarian Intervention

@@ -5,6 +5,12 @@ course: IR2418
 module: 8
 status: reviewed
 tags: [module-note, ir2418]
+rag:
+  paradigm: [postcolonial, critical]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 8 — Non-Western and Critical Approaches to Peace

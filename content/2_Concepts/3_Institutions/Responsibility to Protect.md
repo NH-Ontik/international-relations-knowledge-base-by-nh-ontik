@@ -9,6 +9,12 @@ tags:
 aliases:
   - R2P
   - RtoP
+rag:
+  paradigm: [liberalism, critical]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Responsibility to Protect

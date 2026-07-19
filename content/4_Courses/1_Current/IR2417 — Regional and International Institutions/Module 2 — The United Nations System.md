@@ -5,6 +5,12 @@ course: IR2417
 module: 2
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 2 — The United Nations System

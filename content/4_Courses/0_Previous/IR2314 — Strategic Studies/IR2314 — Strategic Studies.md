@@ -7,6 +7,12 @@ status: seeded
 tags:
   - course
   - course/sem3
+rag:
+  paradigm: [realism]
+  level: [systemic, state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # IR2314 — Strategic Studies

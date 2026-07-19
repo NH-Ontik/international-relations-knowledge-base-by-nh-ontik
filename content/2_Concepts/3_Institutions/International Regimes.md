@@ -9,6 +9,12 @@ aliases:
   - Regime Theory
   - International Regime
   - Regimes
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # International Regimes

@@ -5,6 +5,12 @@ course: IR2416
 module: 3
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [liberalism]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 3 — Comparative Methods in Foreign Policy

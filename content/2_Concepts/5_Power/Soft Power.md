@@ -8,6 +8,12 @@ tags:
 aliases:
   - Soft Power
   - Co-optive Power
+rag:
+  paradigm: [liberalism]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Soft Power

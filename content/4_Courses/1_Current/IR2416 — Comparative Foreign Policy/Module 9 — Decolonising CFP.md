@@ -5,6 +5,12 @@ course: IR2416
 module: 9
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [postcolonial, critical]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 9 — Decolonising Comparative Foreign Policy

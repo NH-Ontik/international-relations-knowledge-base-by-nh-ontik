@@ -1,5 +1,11 @@
 ---
 tags: [concept, concept/power]
+rag:
+  paradigm: [liberalism]
+  level: [state, regional]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Middle Powers

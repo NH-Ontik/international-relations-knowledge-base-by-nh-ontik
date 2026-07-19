@@ -8,6 +8,12 @@ tags:
   - course
   - course/sem4
   - complete
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # IR2417 — Regional and International Institutions

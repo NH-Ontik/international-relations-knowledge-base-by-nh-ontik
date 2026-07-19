@@ -9,6 +9,12 @@ tags:
 aliases:
   - Hegemony
   - Hegemonic Stability
+rag:
+  paradigm: [realism, marxism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Hegemony

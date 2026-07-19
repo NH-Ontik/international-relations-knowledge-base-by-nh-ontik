@@ -1,5 +1,11 @@
 ---
 tags: [case-study/institution, course/sem4]
+rag:
+  paradigm: [liberalism]
+  level: [regional]
+  region: [south-asia]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # South Asian Association for Regional Cooperation

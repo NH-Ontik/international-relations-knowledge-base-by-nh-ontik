@@ -4,6 +4,12 @@ tags:
   - case-study/fpa
   - course/sem2
   - course/sem4
+rag:
+  paradigm: [realism, liberalism]
+  level: [state]
+  region: [south-asia]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # India Foreign Policy

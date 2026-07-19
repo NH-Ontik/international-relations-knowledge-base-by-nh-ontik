@@ -4,6 +4,12 @@ tags:
   - case-study/fpa
   - course/sem3
   - course/sem4
+rag:
+  paradigm: [liberalism]
+  level: [state]
+  region: [south-asia]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Bangladesh Foreign Policy

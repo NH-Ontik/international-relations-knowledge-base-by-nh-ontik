@@ -8,6 +8,12 @@ tags:
   - case-study
 aliases:
   - Bangladesh Liberation War 1971
+rag:
+  paradigm: [realism, liberalism]
+  level: [state, systemic]
+  region: [south-asia]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Bangladesh Liberation

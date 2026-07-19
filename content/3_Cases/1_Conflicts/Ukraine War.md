@@ -6,6 +6,12 @@ tags:
 aliases:
   - War in Ukraine
   - Ukraine (2022--present)
+rag:
+  paradigm: [realism, constructivism]
+  level: [state, systemic]
+  region: [europe]
+  era: [post-2014]
+  source_type: [secondary]
 ---
 
 # Ukraine War (2022–present)

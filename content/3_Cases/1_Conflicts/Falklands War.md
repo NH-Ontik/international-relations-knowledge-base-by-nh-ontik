@@ -4,6 +4,12 @@ tags:
   - case-study/fpa
   - course/sem2
   - course/sem3
+rag:
+  paradigm: [realism]
+  level: [state]
+  region: [americas, europe]
+  era: [1648-1945]
+  source_type: [secondary]
 ---
 
 # Falklands War (1982)

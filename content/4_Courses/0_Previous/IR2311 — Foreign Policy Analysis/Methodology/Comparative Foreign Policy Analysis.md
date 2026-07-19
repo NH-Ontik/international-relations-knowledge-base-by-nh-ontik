@@ -5,6 +5,12 @@ status: active
 tags:
   - methodology
   - methodology/fpa
+rag:
+  paradigm: [liberalism]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Comparative Foreign Policy Analysis

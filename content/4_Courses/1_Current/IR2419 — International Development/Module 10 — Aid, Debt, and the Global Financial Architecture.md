@@ -5,6 +5,12 @@ course: IR2419
 module: 10
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [liberalism, marxism]
+  level: [systemic, transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 10 — Aid, Debt, and the Global Financial Architecture

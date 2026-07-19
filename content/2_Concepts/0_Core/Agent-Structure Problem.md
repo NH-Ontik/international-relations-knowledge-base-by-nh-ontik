@@ -1,5 +1,11 @@
 ---
 tags: [concept, concept/security]
+rag:
+  paradigm: [constructivism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Agent-Structure Problem

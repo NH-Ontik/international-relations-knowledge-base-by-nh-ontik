@@ -8,6 +8,12 @@ tags:
   - case-study
 aliases:
   - State Sovereignty
+rag:
+  paradigm: [realism, constructivism]
+  level: [systemic, state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Sovereignty

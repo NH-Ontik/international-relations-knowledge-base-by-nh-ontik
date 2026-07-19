@@ -9,6 +9,12 @@ tags:
 aliases:
   - FPA
   - Foreign Policy Analysis
+rag:
+  paradigm: [liberalism, realism]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Foreign Policy Analysis (FPA)

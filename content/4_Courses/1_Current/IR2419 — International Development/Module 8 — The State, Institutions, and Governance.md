@@ -5,6 +5,12 @@ course: IR2419
 module: 8
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [liberalism]
+  level: [state, systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 8 — The State, Institutions, and Governance

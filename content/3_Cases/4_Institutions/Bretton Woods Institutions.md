@@ -4,6 +4,12 @@ tags:
   - course/sem1
   - course/sem3
   - course/sem4
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Bretton Woods Institutions (IMF, World Bank, GATT/WTO)

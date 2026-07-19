@@ -3,6 +3,12 @@ tags:
   - case-study/conflict
   - case-study/nonwestern
   - course/sem3
+rag:
+  paradigm: [other]
+  level: [systemic, state]
+  region: [south-asia]
+  era: [ancient]
+  source_type: [secondary]
 ---
 
 # Mauryan Empire (c. 322–185 BCE)

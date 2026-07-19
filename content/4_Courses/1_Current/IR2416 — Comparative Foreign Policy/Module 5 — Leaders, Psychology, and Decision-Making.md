@@ -5,6 +5,12 @@ course: IR2416
 module: 5
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [individual, state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 5 — Leaders, Psychology, and Decision-Making

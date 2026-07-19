@@ -1,5 +1,11 @@
 ---
 tags: [case-study/institution, course/sem4]
+rag:
+  paradigm: [liberalism, postcolonial]
+  level: [regional]
+  region: [africa]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # African Union

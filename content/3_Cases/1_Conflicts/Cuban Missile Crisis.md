@@ -4,6 +4,12 @@ tags:
   - course/sem2
   - course/sem3
 aliases: [Cuba Missile Crisis]
+rag:
+  paradigm: [realism]
+  level: [state]
+  region: [americas, global]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Cuban Missile Crisis (1962)

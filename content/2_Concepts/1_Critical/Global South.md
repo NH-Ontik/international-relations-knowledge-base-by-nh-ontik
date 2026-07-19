@@ -6,6 +6,12 @@ tags:
   - concept
   - concept/security
   - case-study
+rag:
+  paradigm: [postcolonial, marxism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Global South

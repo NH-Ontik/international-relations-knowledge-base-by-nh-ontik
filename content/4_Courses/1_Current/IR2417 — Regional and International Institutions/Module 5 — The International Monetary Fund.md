@@ -5,6 +5,12 @@ course: IR2417
 module: 5
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism, marxism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 5 — The International Monetary Fund

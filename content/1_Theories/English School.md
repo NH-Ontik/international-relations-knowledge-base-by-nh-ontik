@@ -1,5 +1,11 @@
 ---
 tags: [theory, theory/ir]
+rag:
+  paradigm: [english_school]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # English School

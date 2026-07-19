@@ -4,6 +4,12 @@ tags:
   - case-study/fpa
   - course/sem2
   - course/sem3
+rag:
+  paradigm: [realism, liberalism]
+  level: [state, systemic]
+  region: [mena, global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Iraq War / Gulf Conflicts (1991, 2003)

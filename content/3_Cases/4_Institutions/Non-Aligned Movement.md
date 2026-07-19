@@ -1,6 +1,12 @@
 ---
 tags: [concept, concept/security, case-study]
 aliases: [NAM]
+rag:
+  paradigm: [postcolonial, marxism]
+  level: [transnational]
+  region: [global]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Non-Aligned Movement

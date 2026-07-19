@@ -5,6 +5,12 @@ course: IR2417
 module: 10
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism, critical]
+  level: [systemic, transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 10 — Global Governance Challenges: Climate, Health, Digital

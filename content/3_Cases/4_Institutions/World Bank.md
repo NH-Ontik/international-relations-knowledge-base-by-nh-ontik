@@ -6,6 +6,12 @@ tags:
   - concept
   - concept/institutions
   - case-study
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # World Bank

@@ -5,6 +5,12 @@ course: IR2419
 module: 7
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [feminism, marxism]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 7 — Gender and Development

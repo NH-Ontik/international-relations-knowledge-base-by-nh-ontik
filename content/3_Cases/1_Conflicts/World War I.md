@@ -5,6 +5,12 @@ tags:
   - course/sem2
 aliases:
   - WWI
+rag:
+  paradigm: [realism]
+  level: [systemic]
+  region: [europe, global]
+  era: [1648-1945]
+  source_type: [secondary]
 ---
 
 # World War I (1914–1918)

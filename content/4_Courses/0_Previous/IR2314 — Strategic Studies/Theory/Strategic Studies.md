@@ -9,6 +9,12 @@ tags:
 aliases:
   - Strategic Studies
   - Strategy
+rag:
+  paradigm: [realism]
+  level: [systemic, state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Strategic Studies

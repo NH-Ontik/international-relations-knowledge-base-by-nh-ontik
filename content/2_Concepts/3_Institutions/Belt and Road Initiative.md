@@ -7,6 +7,12 @@ tags:
   - concept/institutions
   - case-study
 aliases: [BRI]
+rag:
+  paradigm: [realism, marxism]
+  level: [transnational]
+  region: [asia]
+  era: [post-2014]
+  source_type: [secondary]
 ---
 
 # Belt and Road Initiative

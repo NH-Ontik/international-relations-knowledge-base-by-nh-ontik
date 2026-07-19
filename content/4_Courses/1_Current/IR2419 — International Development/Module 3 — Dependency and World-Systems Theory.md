@@ -5,6 +5,12 @@ course: IR2419
 module: 3
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [marxism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 3 — Dependency and World-Systems Theory

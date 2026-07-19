@@ -1,5 +1,11 @@
 ---
 tags: [case-study/institution, course/sem4]
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [regional]
+  region: [asia]
+  era: [cold_war, post-cold_war]
+  source_type: [secondary]
 ---
 
 # ASEAN

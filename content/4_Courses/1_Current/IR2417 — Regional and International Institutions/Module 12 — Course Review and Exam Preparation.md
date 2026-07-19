@@ -5,6 +5,12 @@ course: IR2417
 module: 12
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 12 — Course Review and Exam Preparation

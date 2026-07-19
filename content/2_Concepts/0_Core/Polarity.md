@@ -11,6 +11,12 @@ aliases:
   - Bipolarity
   - Multipolarity
   - Polar Structure
+rag:
+  paradigm: [realism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Polarity

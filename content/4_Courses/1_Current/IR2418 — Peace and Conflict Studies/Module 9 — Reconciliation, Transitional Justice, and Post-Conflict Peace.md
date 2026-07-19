@@ -5,6 +5,12 @@ course: IR2418
 module: 9
 status: reviewed
 tags: [module-note, ir2418]
+rag:
+  paradigm: [liberalism, critical]
+  level: [state]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 9 — Reconciliation, Transitional Justice, and Post-Conflict Peace

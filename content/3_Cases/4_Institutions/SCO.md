@@ -1,5 +1,11 @@
 ---
 tags: [case-study/institution, course/sem4]
+rag:
+  paradigm: [realism]
+  level: [regional]
+  region: [asia, europe]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Shanghai Cooperation Organisation

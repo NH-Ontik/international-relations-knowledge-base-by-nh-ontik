@@ -5,6 +5,12 @@ status: active
 tags:
   - concept
   - concept/security
+rag:
+  paradigm: [postcolonial, critical]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Eurocentrism

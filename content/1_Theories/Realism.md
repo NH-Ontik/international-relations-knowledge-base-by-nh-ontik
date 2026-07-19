@@ -7,6 +7,12 @@ tags:
   - theory/ir
   - case-study
 aliases: [classical realism]
+rag:
+  paradigm: [realism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Realism
@@ -88,6 +94,10 @@ aliases: [classical realism]
 - Evaluate: where does realism succeed, where does it fail?
 
 ## Sources
-- Waltz, K. (1979). *Theory of International Politics*
-- Mearsheimer, J. (2001). *The Tragedy of Great Power Politics*
-- Morgenthau, H. (1948). *Politics Among Nations*
+- Waltz, K. (1979). *Theory of International Politics*. — [JSTOR](https://www.jstor.org/stable/10.7312columbia/9780231161350.001.0001)
+- Mearsheimer, J. (2001). *The Tragedy of Great Power Politics*. — [W. W. Norton](https://www.wwnorton.com/books/9780393354034)
+- Morgenthau, H. (1948). *Politics Among Nations*. — [McGraw-Hill](https://www.mheducation.com/highered/product/politics-among-nations-morgenthau/M9780073527796.html)
+- Carr, E.H. (1939). *The Twenty Years' Crisis*. — [Palgrave](https://doi.org/10.1057/9780230367463)
+- Wendt, A. (1992). "Anarchy is What States Make of It." *IO* 46(2). — [JSTOR](https://www.jstor.org/stable/2706881)
+- Mearsheimer, J. (1994). "The False Promise of International Institutions." *IS* 19(1). — [JSTOR](https://www.jstor.org/stable/2706895)
+- See also: [[Comprehensive Sources Hub]] · [[Journals and Databases]]

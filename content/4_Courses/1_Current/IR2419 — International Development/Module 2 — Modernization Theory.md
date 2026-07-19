@@ -5,6 +5,12 @@ course: IR2419
 module: 2
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 2 — Modernization Theory

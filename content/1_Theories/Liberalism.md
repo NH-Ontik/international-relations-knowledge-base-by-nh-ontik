@@ -6,6 +6,12 @@ tags:
   - theory
   - theory/ir
   - case-study
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Liberalism

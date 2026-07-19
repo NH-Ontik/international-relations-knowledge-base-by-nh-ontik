@@ -5,6 +5,12 @@ course: IR2417
 module: 1
 status: draft
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 1 — Defining International Organizations: Concepts, Typology, and Historical Evolution

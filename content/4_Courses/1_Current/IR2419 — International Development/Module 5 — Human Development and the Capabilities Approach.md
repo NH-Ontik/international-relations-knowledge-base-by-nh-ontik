@@ -5,6 +5,12 @@ course: IR2419
 module: 5
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [liberalism]
+  level: [systemic, individual]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 5 — Human Development and the Capabilities Approach

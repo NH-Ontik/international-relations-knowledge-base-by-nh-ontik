@@ -9,6 +9,12 @@ aliases:
   - Pluralistic Security Community
   - Security Communities
   - Deutschian Security Community
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [systemic, regional]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Security Community

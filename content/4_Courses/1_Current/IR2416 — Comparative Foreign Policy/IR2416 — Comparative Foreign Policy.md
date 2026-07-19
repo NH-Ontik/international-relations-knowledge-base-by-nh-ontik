@@ -4,6 +4,12 @@ type: course-page
 course: IR2416
 status: complete
 tags: [course-page, ir2416, cfp]
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [state]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # IR2416 — Comparative Foreign Policy

@@ -8,6 +8,12 @@ tags:
 aliases:
   - Arms Control
   - Counterproliferation
+rag:
+  paradigm: [realism]
+  level: [systemic, state]
+  region: [global]
+  era: [cold_war, post-cold_war]
+  source_type: [secondary]
 ---
 
 # Arms Control and Disarmament

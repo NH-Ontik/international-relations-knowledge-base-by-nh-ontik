@@ -9,6 +9,12 @@ tags:
 aliases:
   - Power Balance
   - Equilibrium
+rag:
+  paradigm: [realism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Balance of Power

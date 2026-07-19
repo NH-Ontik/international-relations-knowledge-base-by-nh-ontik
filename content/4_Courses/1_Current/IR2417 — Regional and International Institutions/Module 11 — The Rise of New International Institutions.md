@@ -5,6 +5,12 @@ course: IR2417
 module: 11
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism, realism]
+  level: [transnational]
+  region: [global]
+  era: [post-2014]
+  source_type: [secondary]
 ---
 
 # Module 11 — The Rise of New International Institutions

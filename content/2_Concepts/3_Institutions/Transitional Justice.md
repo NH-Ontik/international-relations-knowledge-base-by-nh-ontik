@@ -1,5 +1,11 @@
 ---
 tags: [concept, concept/institutions, case-study]
+rag:
+  paradigm: [liberalism, critical]
+  level: [state]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Transitional Justice

@@ -4,6 +4,12 @@ tags:
   - course/sem1
   - course/sem3
   - course/sem4
+rag:
+  paradigm: [postcolonial, marxism]
+  level: [systemic]
+  region: [africa]
+  era: [pre-westphalian]
+  source_type: [secondary]
 ---
 
 # Scramble for Africa / Berlin Conference (1884–85)

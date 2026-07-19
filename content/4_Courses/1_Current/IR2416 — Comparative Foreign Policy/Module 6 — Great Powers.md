@@ -5,6 +5,12 @@ course: IR2416
 module: 6
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [realism]
+  level: [state, systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 6 — Great Powers and the International System

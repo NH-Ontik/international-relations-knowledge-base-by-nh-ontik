@@ -4,6 +4,12 @@ tags:
   - course/sem1
   - course/sem2
   - course/sem4
+rag:
+  paradigm: [realism, liberalism, constructivism]
+  level: [systemic]
+  region: [global]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Cold War (1947–1991)

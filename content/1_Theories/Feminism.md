@@ -6,6 +6,12 @@ tags:
   - theory
   - theory/ir
   - case-study
+rag:
+  paradigm: [feminism]
+  level: [systemic, individual]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Feminism in International Relations

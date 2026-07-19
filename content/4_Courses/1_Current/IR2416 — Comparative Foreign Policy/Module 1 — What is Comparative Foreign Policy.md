@@ -5,6 +5,12 @@ course: IR2416
 module: 1
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 1 — What is Comparative Foreign Policy?

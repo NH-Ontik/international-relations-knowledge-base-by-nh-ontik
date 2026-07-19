@@ -5,6 +5,12 @@ course: IR2418
 module: 10
 status: reviewed
 tags: [module-note, ir2418]
+rag:
+  paradigm: [critical, liberalism]
+  level: [systemic, state]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 10 — Rethinking Peace: Contemporary Challenges and Course Review

@@ -5,6 +5,12 @@ course: IR2416
 module: 10
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [liberalism, critical]
+  level: [state, transnational]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 10 — Contemporary Issues and the Future of CFP

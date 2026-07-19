@@ -5,6 +5,12 @@ course: IR2419
 module: 1
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [liberalism, marxism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 1 — What is Development? Contested Concepts

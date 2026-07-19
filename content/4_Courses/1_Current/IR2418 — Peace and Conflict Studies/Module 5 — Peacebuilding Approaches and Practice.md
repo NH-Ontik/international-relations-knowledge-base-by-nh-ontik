@@ -5,6 +5,12 @@ course: IR2418
 module: 5
 status: reviewed
 tags: [module-note, ir2418]
+rag:
+  paradigm: [liberalism, critical]
+  level: [state, individual]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 5 — Peacebuilding: Approaches and Practice

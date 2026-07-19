@@ -5,6 +5,12 @@ status: active
 tags:
   - concept
   - concept/security
+rag:
+  paradigm: [critical]
+  level: [state, individual]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Conflict Transformation

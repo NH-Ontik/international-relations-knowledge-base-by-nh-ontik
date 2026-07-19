@@ -4,6 +4,12 @@ type: course-page
 course: IR2419
 status: complete
 tags: [course-page, ir2419, development]
+rag:
+  paradigm: [marxism, liberalism]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # IR2419 — International Development

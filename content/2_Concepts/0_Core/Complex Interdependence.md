@@ -8,6 +8,12 @@ tags:
 aliases:
   - Complex Interdependence Theory
   - Neoliberal Interdependence
+rag:
+  paradigm: [liberalism]
+  level: [transnational]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Complex Interdependence

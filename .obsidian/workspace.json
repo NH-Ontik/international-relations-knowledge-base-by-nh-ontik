@@ -11,14 +11,10 @@
             "id": "021b425a14196a3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/4_Courses/MOC_Courses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MOC_Courses"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -182,8 +178,36 @@
   },
   "active": "021b425a14196a3b",
   "lastOpenFiles": [
-    "content/5_Sources/Contemporary Strategy Theories and Policies (John Baylis- Ken Booth- John Garnett etc.) (1).pdf",
+    "content/index.md",
+    "content/5_Sources/Comprehensive Sources Hub.md",
+    "content/5_Sources/Institutions and Think Tanks.md",
+    "content/5_Sources/Journals and Databases.md",
+    "content/5_Sources/Policy Documents and Primary Sources.md",
+    "content/5_Sources/Foreign Policy Analysis.pdf",
+    "content/9_Pedagogy/State of the Field 2025-2026.md",
+    "content/9_Pedagogy/MOC_Pedagogy.md",
+    "content/9_Pedagogy/IR Glossary.md",
+    "content/9_Pedagogy/Great Debates in IR.md",
+    "content/9_Pedagogy/Citation Guide for IR.md",
     "content/6_Assignments/Assignment Tracker.md",
-    "content/_CLAUDE.md"
+    "content/5_Sources/Contemporary Strategy Theories and Policies (John Baylis- Ken Booth- John Garnett etc.) (1).pdf",
+    "content/10_Synthesis/QA — What Is the Difference Between Hard and Soft Power.md",
+    "content/10_Synthesis/QA — How Does Climate Change Affect International Security.md",
+    "content/3_Cases/3_Events/AI Governance Developments.md",
+    "content/10_Synthesis/QA — What Is the Responsibility to Protect.md",
+    "content/10_Synthesis/QA — How Do Sanctions Work.md",
+    "content/3_Cases/3_Events/BRICS Expansion 2024.md",
+    "content/10_Synthesis/QA — What Is Securitization Theory.md",
+    "content/3_Cases/3_Events/COVID-19 and Global Governance.md",
+    "content/10_Synthesis/QA — What Are the Main Critiques of Liberal International Order.md",
+    "content/3_Cases/1_Conflicts/Sudan Civil War.md",
+    "content/10_Synthesis/QA — How Does Neorealism Explain Alliance Formation.md",
+    "content/10_Synthesis/QA — What Is the Security Dilemma.md",
+    "content/3_Cases/1_Conflicts/Ethiopia-Tigray War.md",
+    "content/10_Synthesis/Debate — Can IR Be Decolonized.md",
+    "content/10_Synthesis",
+    "content/9_Pedagogy",
+    "content/8_Domains",
+    "content/7_Methodology"
   ]
 }

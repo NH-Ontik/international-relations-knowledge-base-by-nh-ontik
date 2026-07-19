@@ -9,6 +9,12 @@ aliases:
   - Global Governance
   - World Governance
   - Governance Without Government
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Global Governance

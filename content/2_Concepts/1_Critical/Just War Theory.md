@@ -1,5 +1,11 @@
 ---
 tags: [concept, concept/security, case-study]
+rag:
+  paradigm: [liberalism]
+  level: [state, systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Just War Theory

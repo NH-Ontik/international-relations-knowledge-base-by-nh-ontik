@@ -8,6 +8,12 @@ tags:
   - case-study
 aliases:
   - Security Spiral
+rag:
+  paradigm: [realism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Security Dilemma

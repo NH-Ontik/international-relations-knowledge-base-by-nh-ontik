@@ -8,6 +8,12 @@ tags:
   - course
   - course/sem4
   - complete
+rag:
+  paradigm: [critical, liberalism]
+  level: [systemic, state]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # IR2418 — Peace and Conflict Studies

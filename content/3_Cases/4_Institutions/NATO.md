@@ -4,6 +4,12 @@ tags:
   - course/sem1
   - course/sem3
   - course/sem4
+rag:
+  paradigm: [realism, liberalism]
+  level: [regional]
+  region: [europe]
+  era: [cold_war, post-cold_war]
+  source_type: [secondary]
 ---
 
 # NATO

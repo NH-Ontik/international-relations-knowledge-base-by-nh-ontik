@@ -7,6 +7,12 @@ tags:
   - theory/ir
   - case-study
 aliases: [Colonialism, Post-Colonialism, postcolonialism]
+rag:
+  paradigm: [postcolonial]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Postcolonialism

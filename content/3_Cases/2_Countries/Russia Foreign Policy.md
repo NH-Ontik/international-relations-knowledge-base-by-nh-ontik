@@ -4,6 +4,12 @@ tags:
   - case-study/fpa
   - course/sem2
   - course/sem4
+rag:
+  paradigm: [realism]
+  level: [state]
+  region: [europe]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Russia Foreign Policy

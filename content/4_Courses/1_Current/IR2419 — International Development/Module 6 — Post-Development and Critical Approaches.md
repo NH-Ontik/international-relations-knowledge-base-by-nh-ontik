@@ -5,6 +5,12 @@ course: IR2419
 module: 6
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [critical, postcolonial]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 6 — Post-Development and Critical Approaches

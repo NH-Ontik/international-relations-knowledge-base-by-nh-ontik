@@ -1,5 +1,11 @@
 ---
 tags: [case-study/event, course/sem4]
+rag:
+  paradigm: [postcolonial, critical]
+  level: [state]
+  region: [africa]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Apartheid

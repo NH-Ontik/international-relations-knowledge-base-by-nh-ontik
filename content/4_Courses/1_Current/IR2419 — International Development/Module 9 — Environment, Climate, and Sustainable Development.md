@@ -5,6 +5,12 @@ course: IR2419
 module: 9
 status: reviewed
 tags: [module-note, ir2419]
+rag:
+  paradigm: [green, liberalism]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 9 — Environment, Climate, and Sustainable Development

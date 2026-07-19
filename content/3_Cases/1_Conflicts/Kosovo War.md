@@ -5,6 +5,12 @@ tags:
   - course/sem4
 aliases:
   - Kosovo (1999)
+rag:
+  paradigm: [liberalism, critical]
+  level: [systemic, state]
+  region: [europe]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Kosovo War (1999)

@@ -3,6 +3,12 @@ tags:
   - case-study/nonwestern
   - course/sem3
   - course/sem4
+rag:
+  paradigm: [other]
+  level: [state, individual]
+  region: [south-asia]
+  era: [pre-westphalian]
+  source_type: [secondary]
 ---
 
 # Gandhi / Satyagraha

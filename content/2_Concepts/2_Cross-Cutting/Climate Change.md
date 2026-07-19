@@ -1,6 +1,12 @@
 ---
 tags: [concept, concept/security, case-study]
 aliases: [Climate Crisis, Global Warming]
+rag:
+  paradigm: [green, liberalism]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Climate Change

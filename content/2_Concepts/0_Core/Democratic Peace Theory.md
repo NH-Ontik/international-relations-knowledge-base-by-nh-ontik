@@ -11,6 +11,12 @@ aliases:
   - Democratic Peace
   - Liberal Peace
   - Kantian
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Democratic Peace Theory

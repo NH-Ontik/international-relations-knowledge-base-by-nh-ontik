@@ -5,6 +5,12 @@ course: IR2416
 module: 7
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [liberalism]
+  level: [state, regional]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 7 — Middle Powers and Regional Powers

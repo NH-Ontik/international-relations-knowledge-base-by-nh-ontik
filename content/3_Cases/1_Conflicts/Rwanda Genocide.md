@@ -3,6 +3,12 @@ tags:
   - case-study/conflict
   - course/sem1
   - course/sem4
+rag:
+  paradigm: [liberalism, critical]
+  level: [systemic, state]
+  region: [africa]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Rwanda Genocide (1994)

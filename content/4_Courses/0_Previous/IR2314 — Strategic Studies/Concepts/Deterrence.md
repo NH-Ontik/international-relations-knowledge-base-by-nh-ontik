@@ -7,6 +7,12 @@ tags:
   - concept/strategic
 aliases:
   - Deterrence Theory
+rag:
+  paradigm: [realism]
+  level: [state, systemic]
+  region: [global]
+  era: [cold_war]
+  source_type: [secondary]
 ---
 
 # Deterrence

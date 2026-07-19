@@ -5,6 +5,12 @@ course: IR2416
 module: 2
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [realism, liberalism, constructivism]
+  level: [systemic, state, individual]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 2 — Levels of Analysis in Comparative Foreign Policy

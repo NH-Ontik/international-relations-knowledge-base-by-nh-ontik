@@ -5,6 +5,12 @@ course: IR2418
 module: 4
 status: reviewed
 tags: [module-note, ir2418]
+rag:
+  paradigm: [critical]
+  level: [state, individual]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 4 — Conflict Transformation

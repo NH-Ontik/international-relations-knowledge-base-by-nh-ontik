@@ -1,5 +1,11 @@
 ---
 tags: [concept, concept/security, case-study]
+rag:
+  paradigm: [liberalism]
+  level: [systemic]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Peacekeeping

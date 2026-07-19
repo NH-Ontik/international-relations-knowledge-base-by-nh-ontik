@@ -7,6 +7,12 @@ status: seeded
 tags:
   - course
   - course/sem3
+rag:
+  paradigm: [liberalism, realism]
+  level: [state]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # IR2311 — Foreign Policy Analysis

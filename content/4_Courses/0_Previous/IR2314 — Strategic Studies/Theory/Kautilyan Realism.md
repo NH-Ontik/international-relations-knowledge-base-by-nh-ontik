@@ -9,6 +9,12 @@ aliases:
   - Arthashastra
   - Kautilya
   - Non-Western Realism
+rag:
+  paradigm: [other]
+  level: [state]
+  region: [south-asia]
+  era: [ancient]
+  source_type: [secondary]
 ---
 
 # Kautilyan Realism

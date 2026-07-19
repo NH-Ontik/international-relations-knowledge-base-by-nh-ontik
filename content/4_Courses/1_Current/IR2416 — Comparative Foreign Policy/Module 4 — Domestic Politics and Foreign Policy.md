@@ -5,6 +5,12 @@ course: IR2416
 module: 4
 status: reviewed
 tags: [module-note, ir2416]
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [state]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 4 — Domestic Politics and Foreign Policy

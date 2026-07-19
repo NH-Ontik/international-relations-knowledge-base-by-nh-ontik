@@ -1,6 +1,12 @@
 ---
 tags: [case-study/institution, course/sem4]
 aliases: [EU]
+rag:
+  paradigm: [liberalism, constructivism]
+  level: [regional]
+  region: [europe]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # European Union

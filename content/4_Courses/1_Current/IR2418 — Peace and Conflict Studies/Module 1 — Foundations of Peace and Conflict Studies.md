@@ -5,6 +5,12 @@ course: IR2418
 module: 1
 status: reviewed
 tags: [module-note, ir2418]
+rag:
+  paradigm: [critical, liberalism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Module 1 — Foundations of Peace and Conflict Studies

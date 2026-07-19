@@ -3,6 +3,12 @@ tags:
   - case-study/conflict
   - course/sem1
   - course/sem4
+rag:
+  paradigm: [realism, liberalism, constructivism]
+  level: [state]
+  region: [mena]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Israel–Palestine Conflict

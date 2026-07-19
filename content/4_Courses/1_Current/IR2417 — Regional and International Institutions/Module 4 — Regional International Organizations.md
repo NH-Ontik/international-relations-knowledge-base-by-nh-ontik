@@ -5,6 +5,12 @@ course: IR2417
 module: 4
 status: reviewed
 tags: [module-note, ir2417]
+rag:
+  paradigm: [liberalism]
+  level: [regional]
+  region: [global]
+  era: [post-cold_war]
+  source_type: [secondary]
 ---
 
 # Module 4 — Regional International Organizations

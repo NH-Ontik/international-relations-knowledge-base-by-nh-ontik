@@ -7,6 +7,12 @@ tags:
   - concept/security
 aliases:
   - International Anarchy
+rag:
+  paradigm: [realism, liberalism, constructivism]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Anarchy

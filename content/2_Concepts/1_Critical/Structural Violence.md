@@ -6,6 +6,12 @@ tags:
   - concept
   - concept/security
   - case-study
+rag:
+  paradigm: [critical]
+  level: [systemic]
+  region: [global]
+  era: [perennial]
+  source_type: [secondary]
 ---
 
 # Structural Violence
