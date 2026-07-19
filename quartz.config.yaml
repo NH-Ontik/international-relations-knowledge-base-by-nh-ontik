@@ -226,8 +226,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/NH-Ontik/international-relations-knowledge-base-by-nh-ontik
+        Quartz: https://github.com/jackyzha0/quartz
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -250,6 +250,7 @@ plugins:
         - description
         - tags
         - aliases
+        - rag
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
